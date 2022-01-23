@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8080",
+            "url": "file:///Users/LJLA/Desktop/SDP/AG/FSI-Creating-a-Choose-Your-Own-Adventure-Game/FSI-Creating-a-Choose-Your-Own-Adventure-Game/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
